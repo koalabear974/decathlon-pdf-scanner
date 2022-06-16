@@ -1,0 +1,10 @@
+{
+  "googleApi": {
+    "clientID": "863717814354-ajonfc0cm6d3mk8o982iop073f1kn8as.apps.googleusercontent.com",
+    "apiKey": "AIzaSyCxL3zwilLhR8YwB3GE7pi9t7hFH2DVQJ8",
+    "scopes": "https://www.googleapis.com/auth/calendar",
+    "discoverDocs": [
+      "https://www.googleapis.com/discovery/v1/apis/calendar/v3/rest"
+    ]
+  }
+}
